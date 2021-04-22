@@ -1,7 +1,7 @@
 
 The data structures provided are:
 1. An accounts dictionary
-## accounts = [[id,balance],[id,balance]]
+##accounts = [[id,balance],[id,balance]]
 accounts = {1: 5,
             7: 3,
             3: 5} #these are the user accounts, uid 1 has $5, uid 7 has $3 and so on
